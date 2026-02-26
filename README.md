@@ -191,7 +191,7 @@ let payment = Payment.mock()
 
 ```swift
 .package(
-    url: "https://git2.ssdsoftwaresolutions.com/mobile/mockablemacro-ios",
+    url: "https://github.com/safinaelmirausa/mockableMacro",
     from: "1.0.0"
 ),
 ```
